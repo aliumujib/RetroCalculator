@@ -3,8 +3,8 @@ Calculator app for nerds .. one day I just might put the on the store.. but till
 
 ## Awesome notes, a note taking taking app built for travellers  
 
-<img src="Screens/CALC_SCREEN.JPEG” width="250" />
-<img src="Screens/LAUNCH.JPEG” width="250" />
+<img src="Screens/CALC_SCREEN.jpeg” width="250" />
+<img src="Screens/LAUNCH.jpeg” width="250" />
 
 
 This app I built using assets from the iOS 10 course that I currently am taking, nothing fancy here! Completely stuck to the script…. Clone and enjoy, Ciao
